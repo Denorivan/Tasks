@@ -1,0 +1,30 @@
+<violations>
+    <violation>
+        <date_time>2020-01-02 22:18:53</date_time>
+        <first_name>Vsevolod</first_name>
+        <last_name>Krasnikov</last_name>
+        <type>SPEEDING</type>
+        <fine_amount>1000.00</fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-01-03 22:18:53</date_time>
+        <first_name>Vsevolod</first_name>
+        <last_name>Krasnikov</last_name>
+        <type>SPEEDING</type>
+        <fine_amount>1000.00</fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-01-04 22:18:53</date_time>
+        <first_name>Vsevolod</first_name>
+        <last_name>Krasnikov</last_name>
+        <type>DRUNK_DRIVER</type>
+        <fine_amount>1500.00</fine_amount>
+    </violation>
+    <violation>
+        <date_time>2020-01-05 22:18:53</date_time>
+        <first_name>Vsevolod</first_name>
+        <last_name>Krasnikov</last_name>
+        <type>DRUNK_DRIVER</type>
+        <fine_amount>1500.00</fine_amount>
+    </violation>
+</violations>

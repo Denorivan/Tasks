@@ -28,7 +28,7 @@ public class ListTopFiveTest {
         expected.put("#Слово2", 5);
         expected.put("#Слово3", 4);
         expected.put("#Слово4", 3);
-        expected.put("#Слово5", 2);
+        expected.put("#Слово5",  2);
         assertThat(actual, is(expected));
     }
 }

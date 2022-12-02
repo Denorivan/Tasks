@@ -12,5 +12,6 @@ public class ArraySortTest {
         Integer[] act = ArraySort.ArraySort(arr);
         Integer[] expected = {10, 5, 1};
         Assert.assertArrayEquals(act, expected);
+
     }
 }
