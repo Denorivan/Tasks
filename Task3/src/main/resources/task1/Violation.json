@@ -1,0 +1,13 @@
+[ {
+  "type" : "Mobile",
+  "total" : 620500.0
+}, {
+  "type" : "RED_LIGHT",
+  "total" : 500400.0
+}, {
+  "type" : "ALCOHOL",
+  "total" : 355200.0
+}, {
+  "type" : "SPEEDING",
+  "total" : 243200.0
+} ]

@@ -1,0 +1,3751 @@
+[ {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Two",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "Three",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Four",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Two",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "Four",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Three",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Ron",
+  "lastName" : "One",
+  "type" : "RED_LIGHT",
+  "fineAmount" : 400.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "Two",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Fred",
+  "lastName" : "Three",
+  "type" : "Mobile",
+  "fineAmount" : 500.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Denis",
+  "lastName" : "One",
+  "type" : "ALCOHOL",
+  "fineAmount" : 300.0,
+  "dateTime" : "2022-12-12 21:38:41"
+}, {
+  "firstName" : "Tom",
+  "lastName" : "One",
+  "type" : "SPEEDING",
+  "fineAmount" : 200.0,
+  "dateTime" : "2022-12-12 21:38:41"
+} ]
